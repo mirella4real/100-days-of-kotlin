@@ -1,1 +1,1 @@
-# 100-days-of-kotlin
+# I've joined the #100DaysOfCode Challenge (Kotlin Flavor)
