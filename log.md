@@ -1,6 +1,22 @@
 # 100 Days Of Code (Kotlin) - Log
 
 
+### Day 2: Jun 9, 2019 (Sunday)
+
+**Today's Progress**: 
+
+Finished chapters 7 of Head First Kotlin.  Learned about the Any mother of all superclasses, Data class, deconstruction, secondary constructors, the way Kotlin handles equality and method overloading. 
+
+**Thoughts:** 
+
+Java does not have the concept of default parameter values but I learned that there are workarounds for calling Kotlin classes with default params from Java.
+
+**Link to work:** 
+
+[02-project-data-classes](https://github.com/mirella4real/100-days-of-kotlin/tree/master/02-project-data-classes/Recipes)
+
+![02-project-data-classes.png](images/02-project-data-classes.png)
+
 ### Day 1: Jun 8, 2019 (Saturday)
 
 **Today's Progress**: 
