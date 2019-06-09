@@ -18,5 +18,7 @@ I'm still getting used to the differences between Kotlin and Java. In Java, clas
 
 **Link to work:** 
 
+[01-project-inheritance](https://github.com/mirella4real/100-days-of-kotlin/tree/master/01-project-inheritance/Animal)
+
 ![01-project-inheritance.png](images/01-project-inheritance.png)
 
