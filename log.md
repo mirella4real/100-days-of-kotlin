@@ -13,7 +13,7 @@ By default, Kotlin does not accept null values, but provides a work around so th
 
 **Link to work:** 
 
-[03-project-null](https://github.com/mirella4real/100-days-of-kotlin/tree/master/03-project-null/Null Values)
+[03-project-null](https://github.com/mirella4real/100-days-of-kotlin/tree/master/03-project-null/Null%20Values)
 
 ![03-project-null.png](images/03-project-null.png)
 
