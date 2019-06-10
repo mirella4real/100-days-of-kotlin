@@ -1,7 +1,7 @@
 # 100 Days Of Code (Kotlin) - Log
 
 
-### Day 3: Jun 10, 2019 (Mondauy)
+### Day 3: Jun 10, 2019 (Monday)
 
 **Today's Progress**: 
 
