@@ -1,6 +1,20 @@
 # 100 Days Of Code (Kotlin) - Log
 
 
+### Day 4: Jun 11, 2019 (Tuesday)
+
+**Today's Progress**: 
+
+Finished chapeter 9 of Head First Kotlin.  Learned about handling data in collections: Lists, Sets and Maps
+ 
+
+**Link to work:** 
+
+[04-project-collections](https://github.com/mirella4real/100-days-of-kotlin/tree/master/04-project-collections/Collections)
+
+![04-project-collections.png](images/04-project-collections.png)
+
+
 ### Day 3: Jun 10, 2019 (Monday)
 
 **Today's Progress**: 
