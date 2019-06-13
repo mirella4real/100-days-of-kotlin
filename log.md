@@ -1,5 +1,23 @@
 # 100 Days Of Code (Kotlin) - Log
 
+### Day 6: Jun 13, 2019 (Thursday)
+
+**Today's Progress**: 
+
+Back to Head First Kotlin. Finished  Chapter 10, which was about generics. I learned how generics let me write consistent code that is type-safe, and about invariants, covariants and contravariants. 
+
+**Thoughts:** 
+
+I'm not sure I completely grasp generics, so will spend some time re-reading the material.
+
+
+**Link to work:** 
+
+![06-project-generics.png](images/06-project-generics.png)
+
+[06-project-generics](https://github.com/mirella4real/100-days-of-kotlin/tree/master/06-project-generics/Generics)
+
+
 
 ### Day 5: Jun 12, 2019 (Wednesday)
 
@@ -14,7 +32,7 @@ I also did a couple of recipes that reinforced what I learned yesterday about co
 
 ![05-command-line.png](images/05-command-line.png)
 
-[04-project-collections](https://github.com/mirella4real/100-days-of-kotlin/tree/master/05-project-collections-practice/CollectionsPractice)
+[05-project-collections-practice](https://github.com/mirella4real/100-days-of-kotlin/tree/master/05-project-collections-practice/CollectionsPractice)
 
 ![05-project-collections-practice.png](images/05-project-collections-practice.png)
 
