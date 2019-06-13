@@ -1,11 +1,29 @@
 # 100 Days Of Code (Kotlin) - Log
 
 
+### Day 5: Jun 12, 2019 (Wednesday)
+
+**Today's Progress**: 
+
+I switched gears a little bit and began working through the Kotlin Programming Cookbook. Today I learned how to run a Kotlin program from the command line. I installed the Kotlin compiler on my Mac using Homebrew, created a simple Hello World application and ran it from the command line.
+ 
+I also did a couple of recipes that reinforced what I learned yesterday about collections. 
+
+
+**Link to work:** 
+
+![05-command-line.png](images/05-command-line.png)
+
+[04-project-collections](https://github.com/mirella4real/100-days-of-kotlin/tree/master/05-project-collections-practice/CollectionsPractice)
+
+![05-project-collections-practice.png](images/05-project-collections-practice.png)
+
+
 ### Day 4: Jun 11, 2019 (Tuesday)
 
 **Today's Progress**: 
 
-Finished chapeter 9 of Head First Kotlin.  Learned about handling data in collections: Lists, Sets and Maps
+Finished chapter 9 of Head First Kotlin.  Learned about handling data in collections: Lists, Sets and Maps
  
 
 **Link to work:** 
