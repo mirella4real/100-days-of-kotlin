@@ -1,5 +1,23 @@
 # 100 Days Of Code (Kotlin) - Log
 
+### Day 7: Jun 13, 2019 (Friday)
+
+**Today's Progress**: 
+
+Trying to jump into actual Android projects, now that I've got some Kotlin under my belt.  Switched to Android Studio while reading Chapters 1-3 of Android Programming with Kotlin (Packt). Created several simple apps and ran them in the emulator. Tomorrow I'm hoping to start an actual app project!
+
+**Thoughts:** 
+
+I'm happy to see that my past Android experience is not wasted when it comes to Kotlin. 
+
+
+**Link to work:** 
+
+![07-project-first-android-app.png](images/07-project-first-android-app.png)
+
+[07-project-first-android-app](https://github.com/mirella4real/100-days-of-kotlin/tree/master/07-project-first-android-app/HelloWorldAgain)
+
+
 ### Day 6: Jun 13, 2019 (Thursday)
 
 **Today's Progress**: 

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">100 Days of Code - Kotlin</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_label_top">Top Button</string>
+    <string name="button_label_bottom">Bottom Button</string>
+    <string name="greeting">Hello 100 Days of Code! (Kotlin)</string>
+</resources>
