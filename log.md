@@ -1,6 +1,6 @@
 # 100 Days Of Code (Kotlin) - Log
 
-### Day 8: Jun 15, 2019 (Friday)
+### Day 8: Jun 15, 2019 (Saturday)
 
 **Today's Progress**: 
 
