@@ -1,6 +1,13 @@
 # 100 Days Of Code (Kotlin) - Log
 
-### Day 7: Jun 13, 2019 (Friday)
+### Day 8: Jun 15, 2019 (Friday)
+
+**Today's Progress**: 
+
+Continuing to refresh my memory of all things Android. Began the Tetris project (actual app!) from Kotlin Programming by Example. No link to the work yet, as it will take me a few days.
+
+
+### Day 7: Jun 14, 2019 (Friday)
 
 **Today's Progress**: 
 
