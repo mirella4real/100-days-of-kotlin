@@ -1,5 +1,41 @@
 # 100 Days Of Code (Kotlin) - Log
 
+
+### Day 12: Jun 19, 2019 (Wednesday)
+
+**Today's Progress**: 
+
+Enough work has been done on the Tetris project that I now have two activities set up and navigation from one to the next. Tetris logic and functionality is next. 
+
+
+**Link to work:** 
+
+![08-project-tetris-01.png](images/08-project-tetris-01.png)
+
+[08-project-tetris-01](https://github.com/mirella4real/100-days-of-kotlin/tree/master/08-project-tetris-01/Tetris)
+
+
+### Day 11: Jun 18, 2019 (Tuesday)
+
+**Today's Progress**: 
+
+Worked on the Tetris project. Refreshing my memory on using SharedPreferences. Seeing the value of Kotlin's safe call operator!
+
+
+### Day 10: Jun 17, 2019 (Monday)
+
+**Today's Progress**: 
+
+Worked on the Tetris project. Used the safe call operator to hide the app bar and have created event listeners for the buttons.
+
+
+### Day 9: Jun 16, 2019 (Sunday)
+
+**Today's Progress**: 
+
+Worked on the first screen of the Tetris project, mostly on setting up the layout of the view, adding text fields and buttons.
+
+
 ### Day 8: Jun 15, 2019 (Saturday)
 
 **Today's Progress**: 
