@@ -1,6 +1,27 @@
 # 100 Days Of Code (Kotlin) - Log
 
 
+### Day 16: Jun 24, 2019 (Monday)
+
+**Today's Progress**: 
+
+I finished the Tetris project!  Toward the end I was pushing to finish and may not have understood everything that I was doing. However, this practice will be reinforced by theory as I go back to reading more about Kotlin Android dev.  It's pretty cool to run the finished app. 
+
+
+**Link to work:** 
+
+![08-project-tetris-02.png](images/08-project-tetris-02.png)
+
+[08-project-tetris-02](https://github.com/mirella4real/100-days-of-kotlin/tree/master/08-project-tetris-02/Tetris)
+
+
+### Days 13, 14 and 15: Jun 19 - June 23rd, 2019 (Thurs, Fri & Sun)
+
+**Today's Progress**: 
+
+Missed 1 day (Saturday) but have added code to Tetris game functionality. Creating the tetrominos out of 0s and 1s and understanding their rotation and movement has been interesting. Also, the project allowed me to see how Java can be used in a Kotlin project.
+
+
 ### Day 12: Jun 19, 2019 (Wednesday)
 
 **Today's Progress**: 
