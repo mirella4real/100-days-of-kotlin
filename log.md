@@ -10,10 +10,9 @@ I finished the Tetris project!  Toward the end I was pushing to finish and may n
 
 **Link to work:** 
 
-![08-project-tetris-02.png](images/08-project-tetris-02.png)
-
 [08-project-tetris-02](https://github.com/mirella4real/100-days-of-kotlin/tree/master/08-project-tetris-02/Tetris)
 
+![08-project-tetris-02.png](images/08-project-tetris-02.png)
 
 ### Days 13, 14 and 15: Jun 19 - June 23rd, 2019 (Thurs, Fri & Sun)
 
@@ -31,10 +30,9 @@ Enough work has been done on the Tetris project that I now have two activities s
 
 **Link to work:** 
 
-![08-project-tetris-01.png](images/08-project-tetris-01.png)
-
 [08-project-tetris-01](https://github.com/mirella4real/100-days-of-kotlin/tree/master/08-project-tetris-01/Tetris)
 
+![08-project-tetris-01.png](images/08-project-tetris-01.png)
 
 ### Day 11: Jun 18, 2019 (Tuesday)
 
@@ -77,10 +75,9 @@ I'm happy to see that my past Android experience is not wasted when it comes to 
 
 **Link to work:** 
 
-![07-project-first-android-app.png](images/07-project-first-android-app.png)
-
 [07-project-first-android-app](https://github.com/mirella4real/100-days-of-kotlin/tree/master/07-project-first-android-app/HelloWorldAgain)
 
+![07-project-first-android-app.png](images/07-project-first-android-app.png)
 
 ### Day 6: Jun 13, 2019 (Thursday)
 
@@ -95,11 +92,9 @@ I'm not sure I completely grasp generics, so will spend some time re-reading the
 
 **Link to work:** 
 
-![06-project-generics.png](images/06-project-generics.png)
-
 [06-project-generics](https://github.com/mirella4real/100-days-of-kotlin/tree/master/06-project-generics/Generics)
 
-
+![06-project-generics.png](images/06-project-generics.png)
 
 ### Day 5: Jun 12, 2019 (Wednesday)
 
