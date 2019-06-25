@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <TextView
+            android:text="Menu"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView"
+            android:textSize="50sp"
+            android:gravity="center_horizontal"/>
+    <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textMultiLine"
+            android:gravity="start|top"
+            android:ems="10"
+            android:id="@+id/editText"
+            android:text="@string/menu_instructions"
+            android:padding="15sp" android:layout_marginBottom="100sp"/>
+    <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+        <TextView
+                android:text="Load ConstraintLayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:id="@+id/textView2" android:layout_weight=".7"
+                android:textSize="20sp" android:layout_gravity="center_vertical" android:paddingLeft="12sp"/>
+        <Button
+                android:text="LOAD"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" android:id="@+id/btn_load_cl" android:layout_weight=".3"
+        />
+    </LinearLayout>
+    <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+        <TextView
+                android:text="Load TableLayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:id="@+id/textView3" android:layout_weight=".7"
+                android:textSize="20sp" android:layout_gravity="center_vertical" android:paddingLeft="12sp"/>
+        <Button
+                android:text="LOAD"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" android:id="@+id/btn_load_tl" android:layout_weight=".3"
+        />
+    </LinearLayout>
+    <RatingBar
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:id="@+id/ratingBar" android:layout_marginLeft="15sp"
+            android:layout_marginRight="15sp" android:layout_marginTop="75sp"/>
+</LinearLayout>

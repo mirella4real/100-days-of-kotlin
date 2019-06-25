@@ -1,5 +1,17 @@
 # 100 Days Of Code (Kotlin) - Log
 
+### Day 17: Jun 25, 2019 (Tuesday)
+
+**Today's Progress**: 
+
+Worked on chapter 4 from Android Programming with Kotlin (Packt), which dealt with Material Design and playing with different layouts.  Most of the work was done directly in the Design view of the layout files, but I did get to code a little Kotlin. It was a great refresher on setting view attributes. 
+
+
+**Link to work:** 
+
+[09-projects-layouts](https://github.com/mirella4real/100-days-of-kotlin/tree/master/09-projects-layouts/ExploringLayouts)
+
+![09-projects-layouts.png](images/09-projects-layouts.png)
 
 ### Day 16: Jun 24, 2019 (Monday)
 

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Exploring Layouts</string>
+    <string name="menu_instructions">Select a layout type to view an example. The onClick attribute of each button will call a function which executes setContentView to load the new layout</string>
+    <string name="back_to_menu">Back to the menu</string>
+</resources>
