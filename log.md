@@ -1,5 +1,18 @@
 # 100 Days Of Code (Kotlin) - Log
 
+### Day 18: Jun 26, 2019 (Wednesday)
+
+**Today's Progress**: 
+
+Finished chapter 5 of Android Programming with Kotlin (Packt), which dealt with more about Material Design and layouts.  Created a scrolling CardView app. Began reading about lambdas in chapter 11 of Head First Kotlin.
+
+
+**Link to work:** 
+
+[10-projects-layouts-02](https://github.com/mirella4real/100-days-of-kotlin/tree/master/10-projects-layouts-02/CardViewLayout)
+
+![10-projects-layouts-02.png](images/10-projects-layouts-02.png)
+
 ### Day 17: Jun 25, 2019 (Tuesday)
 
 **Today's Progress**: 

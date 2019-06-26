@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:padding="15dp">
+
+    <TextView
+            android:text="Trinity Church"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView"
+            android:textSize="24sp"
+            android:layout_margin="16dp"/>
+    <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="534dp"
+            app:srcCompat="@drawable/image_3"
+            android:layout_gravity="center_horizontal"
+            android:id="@+id/imageView"/>
+    <TextView
+            android:text="Sept 2, 2017"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:layout_margin="16dp"
+            android:id="@+id/textView2"/>
+    <TextView
+            android:text="NYC"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:textSize="24sp"
+            android:textColor="@color/colorAccent"
+            android:id="@+id/textView3"/>
+
+</LinearLayout>
