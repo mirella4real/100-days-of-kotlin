@@ -1,5 +1,33 @@
 # 100 Days Of Code (Kotlin) - Log
 
+### Day 21: Ju1 1, 2019 (Monday)
+
+**Today's Progress**: 
+
+Finished chapter 11 of Head First Kotlin. Learned how to define and invoke lambdas, about how to pass lambdas as functions, how to return lamdas from a function, and how to combine lambdas. As an added bonus, learned how to use the typealias keyword to define a new type.
+
+
+**Link to work:** 
+
+[11-projects-lamdas](https://github.com/mirella4real/100-days-of-kotlin/tree/master/11-projects-lamdas/Lambdas)
+
+![11-projects-lamdas.png](images/11-projects-lamdas.png)
+
+
+### Day 20: Jun 28, 2019 (Friday)
+
+**Today's Progress**: 
+
+Still working on Lambdas. 
+
+
+### Day 19: Jun 27, 2019 (Thursday)
+
+**Today's Progress**: 
+
+Reading through Chapter 11 of Head First Kotlin and learning abut Lambdas reinforces how Kotlin uses references to objects, not values.  
+
+
 ### Day 18: Jun 26, 2019 (Wednesday)
 
 **Today's Progress**: 
