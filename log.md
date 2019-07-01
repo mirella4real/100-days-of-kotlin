@@ -9,7 +9,7 @@ Finished chapter 11 of Head First Kotlin. Learned how to define and invoke lambd
 
 **Link to work:** 
 
-[11-projects-lamdas](https://github.com/mirella4real/100-days-of-kotlin/tree/master/11-projects-lamdas/Lambdas)l
+[11-projects-lamdas](https://github.com/mirella4real/100-days-of-kotlin/tree/master/11-projects-lamdas/Lambdas)
 ![11-projects-lamdas.png](images/11-projects-lamdas.png)
 
 
