@@ -1,5 +1,26 @@
 # 100 Days Of Code (Kotlin) - Log
 
+
+### Day 24: Jul 14, 2019 (Sunday)
+
+**Today's Progress**: 
+
+I took a couple of days off, then read, so nothing to post for those days. Picking up where I last posted, so day 24. I did a simple app to demonstrate UI/code interactions and read about which objects are stored in the heap, which in the stack and how garbage collection works.
+
+
+**Link to work:** 
+
+[12-projects-view_onClickListener-interface](https://github.com/mirella4real/100-days-of-kotlin/tree/master/12-projects-view_onClickListener-interface/KotlinMeetUI)
+![12-projects-view_onClickListener-interface.png](images/12-projects-view_onClickListener-interface.png)
+
+
+### Days 22 and 23: Jul 2-3, 2019 (Tues, Wed)
+
+**Today's Progress**: 
+
+Finished the first section of a Material Design video course, today I read about secure coding practices in The Joy of Kotlin (Manning)
+
+
 ### Day 21: Jul 1, 2019 (Monday)
 
 **Today's Progress**: 
