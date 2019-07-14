@@ -5,7 +5,7 @@
 
 **Today's Progress**: 
 
-I took a couple of days off, then read, so nothing to post for those days. Picking up where I last posted, so day 24. I did a simple app to demonstrate UI/code interactions and read about which objects are stored in the heap, which in the stack and how garbage collection works.
+I took a couple of days off, then read, so nothing to post for those days. Picking up where I last posted, so day 24. I did a simple app to demonstrate UI/Kotlin interactions and read about which objects are stored in the heap, which in the stack and how garbage collection works.
 
 
 **Link to work:** 
